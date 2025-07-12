@@ -7,6 +7,7 @@ Covid-19 Detection Using Machine Learning
 This project aims to detect Covid-19 infections using machine learning techniques based on symptoms and health data. The system leverages classification algorithms to predict whether a person is likely infected with Covid-19 using a labeled dataset containing medical symptoms, contact history, and health status.
 
 
+
 📝 Dataset Description:
 
 
